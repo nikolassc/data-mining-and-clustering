@@ -1,0 +1,11 @@
+# Ignore dataset folder
+/data/
+
+# Ignore CSV files
+*.csv
+
+# Compressed data archives
+*.zip
+
+# Ignore virtual environment folder
+/venv/
